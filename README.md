@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 ## About Me
-Hello! I'm Nikhil, a CS student passionate about Software Development. I enjoy exploring new technologies and working on exciting projects that challenge me to grow as a developer.
+Hello! I'm Nikhil, a CS student passionate about Software Development. I enjoy exploring new technologies.
 
 ## Skills
 - Programming Languages: C, C++, Python
