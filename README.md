@@ -1,22 +1,34 @@
-# Welcome to My GitHub Profile
+# Hello, I'm NIKHIL 👋
 
-## About Me
-Hello! I'm Nikhil, a CS student passionate about Networking and Software Development. I enjoy exploring new technologies.
+I'm a Computer Science student passionate about coding, networking, and cybersecurity. I love to explore the world of technology and contribute to open-source projects. Here's a little about me:
 
-## Skills
-- Programming Languages: C, C++, Python
-- Tools/Technologies: Git, Networking, Linux OS.
+- 🌐 Currently, I'm learning and diving deep into the fascinating fields of **networking** and **cybersecurity**.
+- 💻 Proficient in **C++**, **Python**, and **C**. I enjoy solving problems, optimizing code, and building applications.
+- 🐧 I'm a fan of **Linux**.
+- 📚 I'm constantly expanding my knowledge and staying up-to-date with the latest tech trends.
+- 🔗 I'm well-versed in **Git** and version control to collaborate on projects effectively.
 
-I am constantly learning and expanding my skill set. I enjoy collaborating with others and working on innovative projects.
+## 📫 Get in Touch
 
-## Contact Me
-If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me:
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhiljangra264/)
+- Follow me on [GitHub](https://github.com/nikhiljangra264)
 
-- Email: nikhiljangra264@gamil.com
-- LinkedIn: www.linkedin.com/in/nikhil-j-065b7822a
+## 🛠️ Tools and Technologies
 
-Thank you for visiting my GitHub profile. I look forward to connecting with you!
+- **Languages**: C++, Python, C
+- **Operating System**: Linux
+- **Skills**: Networking, Cybersecurity, Git
 
+## 🌟 Projects
+
+Here are some projects:
+
+- [Project 1](https://github.com/nikhiljangra264/tictactoe): A console based TicTacToe game with two modes i.e. play with another player or AI.
+- [Project 2](https://github.com/nikhiljangra264/header_files): A small repo containing header files.
+
+Feel free to explore my repositories for more!
+
+Thank you for visiting my GitHub profile. Let's connect and learn together! 🚀
 
 <!---
 NikhilWalker/NikhilWalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
