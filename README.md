@@ -17,7 +17,7 @@ I'm a Computer Science student passionate about coding, networking, and cybersec
 
 - **Languages**: C++, Python, C
 - **Operating System**: Linux
-- **Skills**: Networking, Cybersecurity, Git
+- **Skills**: Networking, Git, DSA
 
 ## 🌟 Projects
 
