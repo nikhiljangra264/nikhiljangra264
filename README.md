@@ -2,7 +2,6 @@
 
 I'm a Computer Science student passionate about coding, networking, and cybersecurity. I love to explore the world of technology and contribute to open-source projects. Here's a little about me:
 
-- 🌐 Currently, I'm learning and **DSA**.
 - 💻 Proficient in **C++**, **Python**, and **C**. I enjoy solving problems, optimizing code, and building applications.
 - 🐧 I'm a fan of **Linux**.
 - 📚 I'm constantly expanding my knowledge and staying up-to-date with the latest tech trends.
@@ -17,7 +16,7 @@ I'm a Computer Science student passionate about coding, networking, and cybersec
 
 - **Languages**: C++, Python, C
 - **Operating System**: Linux
-- **Skills**: Networking, Git, DSA
+- **Skills**: Git, DSA, Machine learning
 
 ## 🌟 Projects
 
