@@ -1,9 +1,9 @@
 # Hello, I'm NIKHIL 👋
 
-I'm a Computer Science student passionate about coding, networking, and cybersecurity. I love to explore the world of technology and contribute to open-source projects. Here's a little about me:
+I'm a Computer Science student. Here's a little about me:
 
-- 💻 Proficient in **C++**, **Python**, and **C**. I enjoy solving problems, optimizing code, and building applications.
-- 🐧 I'm a fan of **Linux**.
+- 💻 Proficient in **C++**, **Python**, and **C**.
+- 🐧 I know **Linux**.
 - 📚 I'm constantly expanding my knowledge and staying up-to-date with the latest tech trends.
 - 🔗 I'm well-versed in **Git** and version control to collaborate on projects effectively.
 
@@ -16,7 +16,7 @@ I'm a Computer Science student passionate about coding, networking, and cybersec
 
 - **Languages**: C++, Python, C
 - **Operating System**: Linux
-- **Skills**: Git, DSA, Machine learning
+- **Skills**: Git, DSA.
 
 ## 🌟 Projects
 
