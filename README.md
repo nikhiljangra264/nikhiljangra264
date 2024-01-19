@@ -3,7 +3,6 @@
 I'm a Computer Science student. Here's a little about me:
 
 - 💻 Proficient in **C++**, **Python**, and **C**.
-- 🐧 I know **Linux**.
 - 📚 I'm constantly expanding my knowledge and staying up-to-date with the latest tech trends.
 - 🔗 I'm well-versed in **Git** and version control to collaborate on projects effectively.
 
@@ -15,7 +14,7 @@ I'm a Computer Science student. Here's a little about me:
 ## 🛠️ Tools and Technologies
 
 - **Languages**: C++, Python, C
-- **Operating System**: Linux
+- **Operating System**: Linux, Windows
 - **Skills**: Git, DSA.
 
 ## 🌟 Projects
