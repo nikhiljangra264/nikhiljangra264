@@ -10,6 +10,7 @@ I'm a Computer Science student. Here's a little about me:
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhiljangra264/)
 - Follow me on [GitHub](https://github.com/nikhiljangra264)
+- Follow me on [Twitter](https://twitter.com/nikhiljangra264)
 
 ## 🛠️ Tools and Technologies
 
@@ -21,8 +22,9 @@ I'm a Computer Science student. Here's a little about me:
 
 Here are some projects:
 
-- [Project 1](https://github.com/nikhiljangra264/tictactoe): A console based TicTacToe game with two modes i.e. play with another player or AI.
-- [Project 2](https://github.com/nikhiljangra264/header_files): A small repo containing header files.
+1. A simple UCI chess Engine: https://github.com/nikhiljangra264/chess_cpp
+1. A console based TicTacToe game with two modes i.e. play with another player or AI: https://github.com/nikhiljangra264/tictactoe
+1. A small repo containing header files: https://github.com/nikhiljangra264/header_files
 
 Feel free to explore my repositories for more!
 
