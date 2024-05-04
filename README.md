@@ -1,41 +1,79 @@
 ![👋 Hi there! I'm Nikhil](files/header.svg)
 
 <div align="center">
-  <a href="https://twitter.com/nikhiljangra264" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/nikhiljangra264/" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin">
-  </a>
-  <a href="https://www.hackerrank.com/profile/nikhiljangra264" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://leetcode.com/nikhiljangra264">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-  </a>
+	<a href="https://twitter.com/nikhiljangra264" style="margin-right: 10px;">
+    	<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+	</a>
+  	<a href="https://www.linkedin.com/in/nikhiljangra264/" style="margin-right: 10px;">
+    	<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin">
+	</a>
+  	<a href="https://www.hackerrank.com/profile/nikhiljangra264" style="margin-right: 10px;">
+    	<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  	</a>
+  	<a href="https://leetcode.com/nikhiljangra264">
+    	<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  	</a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/nikhiljangra264.svg?style=social&label=Follow&maxAge=2592000" alt="Followers">
+  	<img src="https://img.shields.io/github/followers/nikhiljangra264.svg?style=social&label=Follow&maxAge=2592000" alt="Followers">
 </div>
 
 <br>
 
 <p align="justify">
-Welcome to my GitHub Page. I'm Nikhil, a Computer Science student. I love learning new things about programming and sharing my knowledge with others. I have over 2 years of experience in programming and have worked with various languages and technologies.
+Welcome to my GitHub Page. I'm Nikhil, a Computer Science student. I love learning new things about programming. I have over 2 years of experience in programming and have worked with various languages and technologies.
 
-Here's a little about me:
+> Tools and technologies that I have worked with and am interested in
 
-- Languages: &nbsp; &nbsp; 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; &nbsp; 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp; &nbsp; 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp; &nbsp; 
-  ![Shell Sript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- OS: &nbsp; &nbsp; 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp; &nbsp; 
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<table style="width: 100%;">
+	<tr>
+	    <td align="center">
+	        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><br>
+	        C++
+	    </td>
+		<td align="center">
+	        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" /><br>
+	        C
+	    </td>
+		<td align="center">
+        	<img src="https://skillicons.dev/icons?i=cmake" alt="icon" width="65" height="65" /><br>
+        	cmake
+    	</td>
+	</tr>
+	<tr>
+    	<td align="center">
+      		<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>
+        	Python
+    	</td>
+	    <td align="center">
+	        <img src="files/github-mark-white.svg" width="65" height="65" alt="GitHub" /><br>
+	        GitHub
+	    </td>
+	    <td align="center">
+	        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
+	        Git
+	    </td>
+  	</tr>
+	<tr>
+	    <td align="center">
+        	<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
+        	Linux
+    	</td>
+		<td align="center">
+        	<img src="https://skillicons.dev/icons?i=windows" alt="icon" width="65" height="65" /><br>
+        	windows
+    	</td>
+		<td align="center">
+        	<img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" /><br>
+        	visual studio
+    	</td>
+  	</tr>
+</table>
+
+
 </p>
 
 ## Github Stats 📊
@@ -47,18 +85,24 @@ Here's a little about me:
 
 ## 🌟 Projects
 
-Here are some projects:
+Here are some self projects:
 
-1. **A simple UCI chess Engine**
-   ![UCI chess Engine](files/chess_engine_elo.png)
+1. **A Simple UCI Chess Engine**
+
    Repository: [nikhiljangra264/chess_cpp](https://github.com/nikhiljangra264/chess_cpp)
 
-2. **A console-based TicTacToe game with two modes: play with another player or AI**
-   ![TicTacToe](files/cpp_tictactoe_home.png)
-   Repository: [nikhiljangra264/tictactoe](https://github.com/nikhiljangra264/tictactoe)
+   <img src="files/chess_engine_elo.png" alt="UCI Chess Engine" width="300">
 
-3. **A small repo containing header files**
+2. **A Console-Based TicTacToe Game**
+
+	Repository: [nikhiljangra264/tictactoe](https://github.com/nikhiljangra264/tictactoe)
+   
+   <img src="files/console_cpp_tictactoe.png" alt="TicTacToe" width="300">
+
+3. **Header Files Repository**
+
    Repository: [nikhiljangra264/header_files](https://github.com/nikhiljangra264/header_files)
+
 
 Feel free to explore my repositories for more!
 
