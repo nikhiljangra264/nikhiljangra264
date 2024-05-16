@@ -5,7 +5,7 @@
     	<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
 	</a>
   	<a href="https://www.linkedin.com/in/nikhiljangra264/" style="margin-right: 10px;">
-    	<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin">
+    	<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
 	</a>
   	<a href="https://www.hackerrank.com/profile/nikhiljangra264" style="margin-right: 10px;">
     	<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
@@ -25,8 +25,9 @@
 
 <p align="justify">
 Welcome to my GitHub Page. I'm Nikhil, a Computer Science student. I love learning new things about programming. I have over 2 years of experience in programming and have worked with various languages and technologies.
+</p>
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked with and am interested in:
 
 <table style="width: 100%;">
 	<tr>
@@ -40,7 +41,7 @@ Welcome to my GitHub Page. I'm Nikhil, a Computer Science student. I love learni
 	    </td>
 		<td align="center">
         	<img src="https://skillicons.dev/icons?i=cmake" alt="icon" width="65" height="65" /><br>
-        	cmake
+        	CMake
     	</td>
 	</tr>
 	<tr>
@@ -64,51 +65,53 @@ Welcome to my GitHub Page. I'm Nikhil, a Computer Science student. I love learni
     	</td>
 		<td align="center">
         	<img src="https://skillicons.dev/icons?i=windows" alt="icon" width="65" height="65" /><br>
-        	windows
+        	Windows
     	</td>
 		<td align="center">
         	<img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" /><br>
-        	visual studio
+        	Visual Studio
     	</td>
   	</tr>
 </table>
 
-
-</p>
-
-## Github Stats 📊
+## GitHub Stats 📊
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nikhiljangra264&theme=blue-green" alt="profile state">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljangra264&theme=blue-green" alt="language state">
+    <img src="https://github-readme-stats.vercel.app/api?username=nikhiljangra264&theme=blue-green" alt="profile stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljangra264&theme=blue-green" alt="language stats">
 </div>
 
 ## 🌟 Projects
 
 Here are some self projects:
 
-1. **A Simple UCI Chess Engine**
+1. **Chess_cpp**
+
+	UCI based Chess Engine
 
    Repository: [nikhiljangra264/chess_cpp](https://github.com/nikhiljangra264/chess_cpp)
 
-   <img src="files/chess_engine_elo.png" alt="UCI Chess Engine" width="300">
+   <img src="files/chess_cpp.png" alt="UCI Chess Engine" width="300">
 
 2. **A Console-Based TicTacToe Game**
 
 	Repository: [nikhiljangra264/tictactoe](https://github.com/nikhiljangra264/tictactoe)
    
-   <img src="files/console_cpp_tictactoe.png" alt="TicTacToe" width="300">
+   	<img src="files/tic_tac_toe_cpp.png" alt="TicTacToe" width="300">
 
-3. **Header Files Repository**
+3. **A GUI based TicTacToe Game**
 
-   Repository: [nikhiljangra264/header_files](https://github.com/nikhiljangra264/header_files)
+   	Repository: [nikhiljangra264/Tic-Tac-Toe](https://github.com/nikhiljangra264/Tic-Tac-Toe)
+
+	<img src="files/tic_tac_toe_python.png" alt="TicTacToe" width="300">
+
+4. **Header Files**
+
+	contain data structures implementation
+
+	Repository: [nikhiljangra264/header_files](https://github.com/nikhiljangra264/header_files)
 
 
 Feel free to explore my repositories for more!
 
 Thank you for visiting my GitHub profile. Let's connect and learn together! 🚀
-
-<!---
-NikhilWalker/NikhilWalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
