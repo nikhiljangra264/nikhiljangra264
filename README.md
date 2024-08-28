@@ -7,11 +7,11 @@
   	<a href="https://www.linkedin.com/in/nikhiljangra264/" style="margin-right: 10px;">
     	<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
 	</a>
-  	<a href="https://www.hackerrank.com/profile/nikhiljangra264" style="margin-right: 10px;">
-    	<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  	</a>
   	<a href="https://leetcode.com/nikhiljangra264">
     	<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  	</a>
+	<a href="https://www.naukri.com/code360/profile/NikhilJangra">
+    	<img src="https://img.shields.io/badge/-Coding%20Ninjas-DD0031?style=for-the-badge&logo=Coding%20Ninjas&logoColor=white" alt="Coding Ninjas">
   	</a>
 </div>
 
